@@ -32,3 +32,4 @@ A responsive React/Vite prototype for SIH26083: Extreme Heatwave Early Warning a
 The included map polygons are intentionally DEMO polygons. Replace them with official ward/mandal GeoJSON boundaries. Connect a secure backend for government authentication, alert delivery, audit logs, historical health/demographic datasets, and a validated thermal-stress/mortality model.
 
 The displayed risk score is a prototype indicator, not a clinical or official public-health risk estimate.
+# TAARA_SIH
